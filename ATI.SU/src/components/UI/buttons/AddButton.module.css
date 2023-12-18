@@ -1,0 +1,12 @@
+.addBtn {
+  height: 40px;
+  width: 40px;
+  padding: 5px 5px;
+  margin: 5px 5px 5px 5px;
+  color:  rgba(143, 233, 15, 0.589);
+  font-size: 14px;
+  background: transparent;
+  border: 2px solid rgba(143, 233, 15, 0.589);
+  cursor: pointer;
+
+}

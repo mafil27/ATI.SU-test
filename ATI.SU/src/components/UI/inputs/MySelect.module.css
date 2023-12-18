@@ -1,0 +1,7 @@
+.mySelect {
+  width: 100px;
+  height: 35px;
+  margin: 5px 5px 5px 5px;
+  border: 2px solid teal;
+  border-radius: 5px;
+}

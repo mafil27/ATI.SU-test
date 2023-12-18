@@ -1,0 +1,10 @@
+.getBtn {
+  height: 40px;
+  width: 100px;
+  padding: 5ps 20px;
+  color: rgba(249, 204, 23, 0.66);
+  font-size: 14px;
+  background: transparent;
+  border: 2px solid rgba(249, 204, 23, 0.66);
+  cursor: pointer;
+}
